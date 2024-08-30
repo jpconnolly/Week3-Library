@@ -1,7 +1,7 @@
 ﻿namespace Library
 {
     class Book
-    {
+    { 
         private string title; // private variable
         private string author;// private variable
         private string isbn; // private variable
