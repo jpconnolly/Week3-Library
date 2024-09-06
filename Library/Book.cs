@@ -24,7 +24,8 @@
             set { isbn = value; }
         }
 
-        // Constructor to add a new book
+        // Example of a constructor that allows us to 'construct' a new
+        // Book object
         public Book(string bookTitle, string bookAuthor, string bookISBN)
         {
             this.title = bookTitle;

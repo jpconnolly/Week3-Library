@@ -22,4 +22,3 @@ class Program
         member1.DisplayInfo();
     }
 }
-
