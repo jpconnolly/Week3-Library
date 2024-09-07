@@ -10,7 +10,7 @@ class Program
         Console.WriteLine("Currently available books");
         book.DisplayInfo();
         book1.DisplayInfo();
-        
+
         // Create new instances of the Member class
         // These new members are created using the 
         // Member constructor in the Members class
@@ -22,7 +22,6 @@ class Program
         member1.DisplayInfo();
     }
 }
-// This is a test
 
 
 
