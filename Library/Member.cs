@@ -14,7 +14,7 @@ namespace Library
             get { return memberId; }
             private set { memberId = value; } // Private setter makes it read-only
         }
-        public string Name
+        public string Name 
         {
             get { return name; }  // get method
             set { name = value; } // set method

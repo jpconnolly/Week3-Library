@@ -22,7 +22,7 @@ namespace LibraryTests
             Assert.AreEqual(address, member.Address);
             Assert.AreEqual(phone, member.Phone);
         }
-
+         
         [TestMethod]
         public void NameProperty_ShouldGetAndSet()
         {
